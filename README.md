@@ -1,7 +1,9 @@
 # AMLOS.f2k - Automated Music Library Organization Scripts (for foobar2000)
 My personally developed (and hideously inelegant & unoptimized) scripts for automated music library organization via foobar2000's "File Operations" tool. **Feel free to request a custom script!**
 
-## Provisional / placeholder Readme
+![Code sample](images/codesample.png "code sample")
+
+## (Provisional / placeholder Readme)
 _Since I really need to learn GH markup standards before this thing's half-legible (let alone **useful** to anyone other than me) consider this a draft._
 
 ## Purpose
