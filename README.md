@@ -29,7 +29,7 @@ _(Note: backslash character \ = new directory; curly brackets {} = conditionals)
 
 <code>CODEC \ ALBUM ARTIST{ '(</code>three-letter country code<code>)'} - [DATE{ '(YEAR Reissue)'}] ALBUM (@CODEC{ / </code>BITRATE conditionals for lossy & lossless, e.g. <code>@FLAC / @320k MP3 / @DSD64}) \ {DISCNUMBER.</code> if ≥2<code>}TRACKNUMBER. TITLE</code>  
 
-**Example Output:** <code>FLAC\Absu - [2001] Tara (@FLAC)\03. A Shield With An Iron Face.flac</code>
+**Example Output:** <code>FLAC\Axis Of Perdition, The - [2003] The Ichneumon Method (And Less Welcome Techniques) (@FLAC)\01. A Ruined Nation Awakens.flac</code>
 
 ## AMLOS
 
